@@ -1,4 +1,4 @@
-TEST_PASTE_1234# 🇶🇦 Visa Aylin Consultancy - Qatar Job Hunt Tracker
+# 🇶🇦 Visa Aylin Consultancy - Qatar Job Hunt Tracker
 
 A professional webapp for tracking Qatar job hunt progress. Free hosting on GitHub Pages + Firebase for authentication and data sync.
 
